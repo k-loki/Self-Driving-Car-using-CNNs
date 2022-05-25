@@ -6,9 +6,9 @@ Here we learn a car to drive itself on the lane using convolutional nerual netwo
 - The input to the cnn will be images of the road ahead in 3 view points.
 - The model learns appropriate weights to minimize the loss.
 - The loss function we used here is mean squared error (mse)
-- The outcome of the neural network is to steering angle to be rotated.
+- The outcome of the neural network is the steering angle to be rotated.
 - The mse loss shows the model how far the steering angle is from the actual angle in training phase.
-- After the model is trained its tested on the simulated road.
+- After the model is trained, its tested on the simulated road.
 - The training data and testing track all are from udacity's car driving simulator.
 
 The Drive.py file helps you connect with the udacity simulator.
