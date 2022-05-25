@@ -15,4 +15,5 @@ The Drive.py file helps you connect with the udacity simulator.
 Open the udacity simulator and select autonomoud mode to see the car drive itself on the track.
 
 NOTE: 
+
 Make sure you have the socketio version --> 0.2.1 and eventlet vesrsion --> 0.33.0 to run driver code without any issues.
